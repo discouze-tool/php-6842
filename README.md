@@ -12,12 +12,12 @@ The comparison also highlights how Go-powered runtimes are improving concurrency
 
 ## Skills & Technologies
 
-- [PHP](https://perfectfirms.com/top-companies/php)
-- - [FrankenPHP](https://perfectfirms.com/hire-top-rated-companies/frankenphp)
-  - - [RoadRunner](https://perfectfirms.com/hire-top-rated-companies/roadrunner)
-    - - [Performance Engineering](https://perfectfirms.com/hire-top-leading-companies/performance)
-      - - [Server Infrastructure](https://perfectfirms.com/hire-top-verified-companies/server)
-        - - [DevOps](https://perfectfirms.com/top-trusted-companies/devops)
+- [PHP Development](https://perfectfirms.com/top-companies/php)
+- - [FrankenPHP Development](https://perfectfirms.com/hire-top-rated-companies/frankenphp)
+  - - [RoadRunner Development](https://perfectfirms.com/hire-top-rated-companies/roadrunner)
+    - - [Performance Engineering Development](https://perfectfirms.com/hire-top-leading-companies/performance)
+      - - [Server Infrastructure Development](https://perfectfirms.com/hire-top-verified-companies/server)
+        - - [DevOps Development](https://perfectfirms.com/top-trusted-companies/devops)
           - - [Go Development](https://perfectfirms.com/top-rated-companies/go)
             -
             - ## Overview
